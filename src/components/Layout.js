@@ -109,7 +109,11 @@ const useStyles = makeStyles((theme) => {
       }),
     },
     avatarName:{
-        display:theme.breakpoints.down('sm') ? 'none':'block'
+        [theme.breakpoints.down('sm')]: {
+           display:'none'
+        },
+
+
     }
   };
 });
