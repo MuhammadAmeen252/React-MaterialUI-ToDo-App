@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "title": "watch movie",
+      "desc": "watch the moview avengers on friday night at 5 pm on HBO max. Also download it into HD",
+      "category": "Todos",
+      "id": 4
+    },
+    {
+      "title": "do assignment#2 WEB",
+      "desc": "Create a Angular application and integrate node js app that u build in previous assignmenet",
+      "category": "Reminder",
+      "id": 5
+    },
+    {
+      "title": "do assignment#3 WEB",
+      "desc": "Create a React application and integrate node js app that u build in previous assignmenet",
+      "category": "Reminder",
+      "id": 6
+    },
+    {
+      "title": "do assignment#3 WEB",
+      "desc": "Create a React application and integrate node js app that u build in previous assignmeet.",
+      "category": "Reminder",
+      "id": 7
+    },
+    {
+      "title": "Do CS assignment",
+      "desc": "Due date on 20",
+      "category": "Reminder",
+      "id": 8
+    },
+    {
+      "title": "Do CA assignment",
+      "desc": "Due date on 20",
+      "category": "Reminder",
+      "id": 9
+    },
+    {
+      "title": "Do Compiler project assignment",
+      "desc": "Due date on 24",
+      "category": "Todos",
+      "id": 10
+    },
+    {
+      "title": "Do exams prep",
+      "desc": "Exam conduction date on 29 June and be prepared for online exams ;->",
+      "category": "Todos",
+      "id": 11
+    },
+    {
+      "title": "Be prepared for Expo",
+      "desc": "Get prepared for expo held on comsats university.",
+      "category": "Reminder",
+      "id": 12
+    }
+  ]
+}
